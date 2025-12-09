@@ -1,3 +1,4 @@
+
 import javax.swing.*;
 import java.awt.*;
 import java.io.File;
@@ -24,7 +25,7 @@ import java.util.function.Consumer;
 
 public class Driver {
     // Constants
-    private static final String TRACK_DIRECTORY = "RURacing/";
+    private static final String TRACK_DIRECTORY = "C:\\Users\\owenc\\OneDrive\\CS111\\A9\\A9\\RURacing\\";
     private static final int WINDOW_WIDTH = 800;
     private static final int WINDOW_HEIGHT = 600;
     private static final long SIMULATION_TIMEOUT_SECONDS = 5;
